@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tab_tabLayout_view" type="id" />
+    <item name="viewPager_view" type="id" />
+    <item name="mainLayout" type="id" />
+    <item name="phone_txt" type="id" />
+    <item name="email_txt" type="id" />
+    <item name="name_txt" type="id" />
+    <item name="id_txt" type="id" />
+</resources>
